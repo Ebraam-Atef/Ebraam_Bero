@@ -77,9 +77,3 @@ I enjoy solving real-world problems, building data-driven solutions, and continu
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 
 ---
-
-# 📈 GitHub Stats
-
-![Ebraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebraam-Atef&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
